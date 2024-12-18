@@ -1,0 +1,34 @@
+{
+    "token": "TOKEN",
+    "cookie": "COOKIE",
+
+    "groupID": 1,
+
+    "prefix": "?",
+
+    "maxAmountOfMembersToCollect": 200000,
+
+    "loggingEnabled": true,
+    "logChannelID": "LOG CHANNEL ID",
+
+    "onGroupActionLogging": true,
+    "groupActionChannelID": "GROUP ACTION LOG CHANNEL ID",
+
+    "onGroupShoutLogging": true,
+    "groupShoutChannelID": "GROUP SHOUT LOG CHANNEL ID",
+
+    "groupMemberCountingEnabled": true,
+    "countingLogChannel": "GROUP COUNTING LOG CHANNEL ID",
+    "goal": 1000,
+    "intervalOfCounting": 15,
+
+    "groupPayoutsEnabled": true,
+
+    "messagingEnabled": true,
+
+    "allowedRanks": ["Group Permissions"],
+
+    "embedColor": "BLUE",
+
+    "cooldown": 10
+}
